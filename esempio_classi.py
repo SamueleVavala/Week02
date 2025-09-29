@@ -37,3 +37,7 @@ books = [book1, book2]
 
 for book in books:
     print(book.title, book.author, book.num_pages)
+
+
+
+# modifica di prova
